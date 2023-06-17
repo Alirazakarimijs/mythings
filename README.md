@@ -1,0 +1,2 @@
+# mythings 
+resume emily project
